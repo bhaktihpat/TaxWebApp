@@ -1,0 +1,11 @@
+Year| Account_Number| Record_Type| Name| Address| City| State
+2020| 00000151| AAAA| City of Fort Worth| 200 Texas St| Fort Worth| TX
+2020| 00000152| AAAA| City of Fort Worth| 204 Texas St| Fort Worth| TX
+2020| 00000161| AAAA| City of Fort Worth| 201 Texas St| Fort Worth| TX
+2018| 00000162| AAAA| City of Fort Worth| 220 Texas St| Fort Worth| TX
+2020| 00000154| AAAA| City of Fort Worth| 200 Texas St| Fort Worth| TX
+2020| 00000158| AAAA| City of Fort Worth| 304 Texas St| Fort Worth| TX
+2020| 00000157| AAAA| City of Fort Worth| 401 Texas St| Fort Worth| TX
+2020| 00000171| AAAA| City of Fort Worth| 601 Texas St| Fort Worth| TX
+2018| 00000178| AAAA| City of Fort Worth| 250 Texas St| Fort Worth| TX
+2020| 00000181| AAAA| City of Fort Worth| 267 Texas St| Fort Worth| TX
